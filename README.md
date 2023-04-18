@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chattongchai 
-- 👀 I’m interested in React, React Native
-- 🌱 I’m currently learning Clean Architecture and Monorepo
+- 👀 I’m a NextJS, React Native developer
 - 📫 How to reach me https://www.linkedin.com/in/chattongchai-raksitanon/
 
 <!---
