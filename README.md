@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Chattongchai 
-- 👀 I’m a NextJS, React Native developer
 - 📫 How to reach me https://www.linkedin.com/in/chattongchai-raksitanon/
 
 <!---
